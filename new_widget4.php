@@ -4,7 +4,7 @@ namespace Elementor; // Custom widgets must be defined in the Elementor namespac
 if (! defined('ABSPATH')) exit; // Exit if accessed directly (security measure)
 
 /**
- * Widget Name: Image Box Carousel
+ * Widget Name: Image Card Carousel
  */
 class Image_Card_Carousel_Widget extends Widget_Base
 {
